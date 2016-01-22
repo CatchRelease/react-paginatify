@@ -51,7 +51,7 @@
     "load-grunt-tasks": "^3.3.0",
     "path": "^0.12.7",
     "pixrem": "^3.0.0",
-    "react": "^0.14.0",
+    "react": "^0.14.6",
     "react-addons-test-utils": "^0.14.0",
     "react-dom": "^0.14.0",
     "webpack": "^1.12.11",
